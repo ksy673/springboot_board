@@ -1,5 +1,6 @@
 package com.study.board.domain.post;
 
+
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

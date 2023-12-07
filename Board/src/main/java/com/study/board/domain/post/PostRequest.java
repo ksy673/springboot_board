@@ -1,5 +1,6 @@
 package com.study.board.domain.post;
 
+
 import lombok.Getter;
 import lombok.Setter;
 
@@ -14,3 +15,4 @@ public class PostRequest {
     private Boolean noticeYn;    // 공지글 여부
 
 }
+
